@@ -5,4 +5,4 @@
 [More reads](https://classroom.udacity.com/courses/ud210/lessons/1343a461-102f-41e1-b505-bf9ec62f427b/concepts/cde0dddf-6415-4972-9689-45ca6a434220)
 
 
-[Style Guides] (https://classroom.udacity.com/courses/ud210/lessons/1343a461-102f-41e1-b505-bf9ec62f427b/concepts/a1e9e018-127d-485d-a007-f37a478f7ba7) 
+[Style Guides](https://classroom.udacity.com/courses/ud210/lessons/1343a461-102f-41e1-b505-bf9ec62f427b/concepts/a1e9e018-127d-485d-a007-f37a478f7ba7) 
