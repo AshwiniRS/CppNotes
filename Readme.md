@@ -1,8 +1,28 @@
-# My notes on C++.
+# C++
 
-##  Part 1:  Basics
+**What is C++?**
+C++ is the programming language that primarily is used for applications which demands energy consumption, speed and performance. 
 
-[More reads](https://classroom.udacity.com/courses/ud210/lessons/1343a461-102f-41e1-b505-bf9ec62f427b/concepts/cde0dddf-6415-4972-9689-45ca6a434220)
+## Chapter 1 : Getting Started
+### 1.1 Writing simple C++ program:
+Every C++ program has one or more functions in which one must be named as **main** . The OS runs C++ program by calling main function.
 
+Every function has **four** elements:
+		- a return type
+		- a function name
+		- parameter list enclosed in parenthesis
+		- function body
+		
+Consider following sample main() function in C++.
+``` 
+int main(){
+	return 0;
+}
+```
+In the above code snippet the four elements are:
+	- a return type - int
+	- a function name - main
+	- parameter list enclosed in parenthesis - no parameters hence empty parenthesis
+	- function body - block of statements enclosed in curly braces.
 
-[Style Guides](https://classroom.udacity.com/courses/ud210/lessons/1343a461-102f-41e1-b505-bf9ec62f427b/concepts/a1e9e018-127d-485d-a007-f37a478f7ba7) 
+A return value from function indicates the success or failure of function. *Return value of 0 indicates success and a nonzero indicates what kind of error occurred.*
